@@ -1,3 +1,3 @@
 v2.60
 Card Manager current version
-URL:card_manager_v2.60.exe
+URL:card_manager_v2.60.bin
