@@ -1,3 +1,3 @@
-v2.68
+v2.69
 修复保存用户配置
-URL:card_manager_v2.68.bin
+URL:card_manager_v2.69.bin
