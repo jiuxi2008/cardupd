@@ -1,3 +1,3 @@
-v2.65
-修复更新替换失败（bat脚本乱码）；多个更新源自动切换
-URL:card_manager_v2.65.bin
+v2.66
+所有配置自动保存到config.ini（含打包IP），更新后无需重新设置
+URL:card_manager_v2.66.bin
