@@ -1,3 +1,0 @@
-v2.64
-修复管理员密码设置后不生效；所有日志自动写入同目录log.txt
-URL:card_manager_v2.64.bin
